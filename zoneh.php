@@ -1,6 +1,5 @@
 <?php
-
-// !/bin/php
+// PM : U21004145
 // Coded By Muhammad Imam
 // 087700935379 Contact ( Whatsapp )
 
