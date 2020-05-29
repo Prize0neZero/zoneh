@@ -118,6 +118,8 @@ function xdgopen(){
   } else if ( $open == 2 || $open == 02 ){
       system("xdg-open https://zone-h.org/archive/notifier=$nick/published=0" );
 
+}   else {
+        jalan();
 }
 }
 
