@@ -3,7 +3,7 @@
 // Coded By Muhammad Imam
 // 087700935379 Contact ( Whatsapp )
 
-
+system("pkg install nano");
 system("clear");
 
 function loadgif(){
